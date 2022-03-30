@@ -12,10 +12,10 @@
 - Just out of Curiosity & Just Because
 
 
-![Plot](./plot.svg)
-<iframe src="{{site.baseurl}}/plot.html" style="width:100%;" height="315px" ></iframe>
+<!-- ![Plot](./plot.svg) -->
+<iframe src="{{site.baseurl}}/plot.html" style="width:100%;" frameborder=0 height="420px" ></iframe>
 
-## [View Interactive Version](https://yogpanjarale.github.io/TMKOC-analysis/plot.html)
+## [View Interactive Graph ](https://yogpanjarale.github.io/TMKOC-analysis/plot.html)
 
 ## By this Analysis we can conclude
 - New Stories were more frequent in in the start 
