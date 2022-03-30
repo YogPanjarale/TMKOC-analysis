@@ -14,8 +14,9 @@
 
 ![Plot](./plot.svg)
 
+## [View Interactive Version](https://yogpanjarale.github.io/TMKOC-analysis/)
 
-# By this Analysis we can conclude
+## By this Analysis we can conclude
 - New Stories were more frequent in in the start 
 - The show is becomming lengthy over time starting from episode 1600's to 3000's 
 - The frequency of sotries is again increasing 
